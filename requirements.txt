@@ -1,0 +1,6 @@
+aiogram==3.30.0
+sqlalchemy[asyncio]==2.0.36
+asyncpg==0.30.0
+python-barcode==0.15.1
+qrcode==8.0
+pillow==11.0.0
